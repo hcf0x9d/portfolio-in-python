@@ -1,0 +1,6 @@
+# cat requirements.txt
+flask
+flask_navigation
+httplib2
+requests
+sqlalchemy
